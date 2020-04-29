@@ -6,7 +6,7 @@ This project is done by using following concepts-:
 2. Container technology
 3. Network concept
 
-If you want to change the port then add a line -EXPOSE 80 in docker compose.yml edit the mysql port.
+If you want to change the port then add a line -EXPOSE 80 in docker compose.yml edit the Worpress port.
 
 To initialise project exceute commands as: docker-compose config --> 
 
